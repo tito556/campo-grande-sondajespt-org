@@ -1,0 +1,20 @@
+{
+  "name": "Campo Grande",
+  "short_name": "Campo Grande",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#2E8B57",
+  "background_color": "#FFFFFF",
+  "icons": [
+    {
+      "src": "/img/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ],
+  "lang": "pt",
+  "orientation": "natural",
+  "scope": "/",
+  "description": "Serviços geotécnicos profissionais em Campo Grande, Brasil. Estudos de solo, ensaios e consultoria técnica.",
+  "id": "/campo-grande-6537"
+}

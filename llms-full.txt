@@ -1,0 +1,42 @@
+# Campo Grande
+
+> Geotechnical engineering company in Brasil, providing professional services in soil mechanics, foundation engineering and site investigation.
+
+## Services
+- [Analise Amplificacao Sismica](https://campo-grande.sondajespt.org/analise-amplificacao-sismica/)
+- [Analise Erosao Solo](https://campo-grande.sondajespt.org/analise-erosao-solo/)
+- [Analise Estabilidade Taludes](https://campo-grande.sondajespt.org/analise-estabilidade-taludes/)
+- [Avaliacao Pavimentos Existentes](https://campo-grande.sondajespt.org/avaliacao-pavimentos-existentes/)
+- [Calculo Fator Seguranca](https://campo-grande.sondajespt.org/calculo-fator-seguranca/)
+- [Classificacao Solos](https://campo-grande.sondajespt.org/classificacao-solos/)
+- [Drenagem Viaria Geotecnica](https://campo-grande.sondajespt.org/drenagem-viaria-geotecnica/)
+- [Ensaio Pressiometrico Menard](https://campo-grande.sondajespt.org/ensaio-pressiometrico-menard/)
+- [Ensaios In Situ](https://campo-grande.sondajespt.org/ensaios-in-situ/)
+- [Especificacao Geomembranas](https://campo-grande.sondajespt.org/especificacao-geomembranas/)
+- [Estudo Mecanica Solos](https://campo-grande.sondajespt.org/estudo-mecanica-solos/)
+- [Exploracao](https://campo-grande.sondajespt.org/exploracao/)
+- [Fundacoes](https://campo-grande.sondajespt.org/fundacoes/)
+- [Geofisica](https://campo-grande.sondajespt.org/geofisica/)
+- [Geotecnia Aterros Sanitarios](https://campo-grande.sondajespt.org/geotecnia-aterros-sanitarios/)
+- [Geotecnia Viaria](https://campo-grande.sondajespt.org/geotecnia-viaria/)
+- [Ground Penetrating Radar](https://campo-grande.sondajespt.org/ground-penetrating-radar/)
+- [Laboratorio](https://campo-grande.sondajespt.org/laboratorio/)
+- [Melhoramento](https://campo-grande.sondajespt.org/melhoramento/)
+- [Projeto Compactacao Dinamica](https://campo-grande.sondajespt.org/projeto-compactacao-dinamica/)
+- [Projeto Drenagem Geotecnica](https://campo-grande.sondajespt.org/projeto-drenagem-geotecnica/)
+- [Projeto Fundacoes Sismicas](https://campo-grande.sondajespt.org/projeto-fundacoes-sismicas/)
+- [Projeto Geocelulas](https://campo-grande.sondajespt.org/projeto-geocelulas/)
+- [Projeto Muros Contencao](https://campo-grande.sondajespt.org/projeto-muros-contencao/)
+- [Projeto Muros Mse](https://campo-grande.sondajespt.org/projeto-muros-mse/)
+- [Projeto Pre Carga Sobrecarga](https://campo-grande.sondajespt.org/projeto-pre-carga-sobrecarga/)
+- [Projeto Radier](https://campo-grande.sondajespt.org/projeto-radier/)
+- [Sismica](https://campo-grande.sondajespt.org/sismica/)
+- [Standard Penetration Test](https://campo-grande.sondajespt.org/standard-penetration-test/)
+- [Taludes](https://campo-grande.sondajespt.org/taludes/)
+
+## Contact
+- Website: https://campo-grande.sondajespt.org/
+
+## About
+This page provides information about geotechnical engineering services available in Brasil.
+The company complies with local and international standards including ASTM, ISO and country-specific norms.
